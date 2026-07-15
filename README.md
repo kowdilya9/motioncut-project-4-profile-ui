@@ -16,4 +16,4 @@ Mobile Profile Page UI design created using Figma as part of the MotionCut UI/UX
 - **Fonts:** Sans-serif / Serif mix
 
 ## 🔗 Live Figma Link
-[View Project in Figma](PASTE_YOUR_FIGMA_SHARE_LINK_HERE)
+[View Project in Figma]([PASTE_YOUR_FIGMA_SHARE_LINK_HERE](https://www.figma.com/design/5JBtoRi4XX3D34PI5UY4r6/Untitled?node-id=0-1&t=ABNdycNVT4T3vT5J-1))
