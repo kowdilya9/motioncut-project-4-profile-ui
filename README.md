@@ -17,4 +17,3 @@ Mobile Profile Page UI design created using Figma as part of the MotionCut UI/UX
 
 ## 🔗 Live Figma Link
 [View Project in Figma](https://www.figma.com/design/5JBtoRi4XX3D34PI5UY4r6/Untitled?node-id=0-1&t=ABNdycNVT4T3vT5J-1)
-[View Project in Figma](https://www.figma.com/design/5JBtoRi4XX3D34PI5UY4r6/Untitled?node-id=0-1&t=ABNdycNVT4T3vT5J-1
